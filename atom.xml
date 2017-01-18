@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-18T07:27:39.585Z</updated>
+  <updated>2017-01-18T07:56:24.532Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/01/12/hello-world/"/>
     <id>http://yoursite.com/2017/01/12/hello-world/</id>
     <published>2017-01-12T04:01:50.000Z</published>
-    <updated>2017-01-18T07:27:39.585Z</updated>
+    <updated>2017-01-18T07:56:24.532Z</updated>
     
     <content type="html"><![CDATA[<h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>从学校出来，一边实习，一边学习。学习大牛们经验的时候，就希望有个地方能记录自己的学习过程和学习成果，所以给自己搭建了个平台，以此做记忆，写下我的故事，记下我的时间。</p>
 <h3 id="关于时间"><a href="#关于时间" class="headerlink" title="关于时间"></a>关于时间</h3><blockquote>
@@ -36,7 +36,7 @@
 <h3 id="关于这里"><a href="#关于这里" class="headerlink" title="关于这里"></a>关于这里</h3><blockquote>
 <p>博客就好像一个人在自说自话    ——–<a href="http://www.ruanyifeng.com/blog" target="_blank" rel="external">阮一峰</a></p>
 </blockquote>
-<p>很多事情都是解释不清的，越解释越模糊。至于这个博客，纯粹就是想有个地盘让自己思考，写些什么。就是这么任性，然后花了n久，开了这个博客，来之不易啊。<br>关于blog写什么什么？会写些随笔，关于前端自己的拙见，更重要的是作为毕业设计的一部分。</p>
+<p>很多事情都是解释不清的，越解释越模糊。至于这个博客，纯粹就是想有个地盘让自己思考，写些什么。就是这么任性，然后花了n久，开了这个博客，来之不易啊。<br>关于blog写什么什么？会写些随笔，关于前端自己的拙见，更重要的是作为毕业设计的一部分。<br>——愿意这里不只有杂草，也有人烟。</p>
 <h4 id="现在还有很多功能没有完善，不过拖了这么久是时候要面世了。之后会添加评论功能等等，就这样。"><a href="#现在还有很多功能没有完善，不过拖了这么久是时候要面世了。之后会添加评论功能等等，就这样。" class="headerlink" title="现在还有很多功能没有完善，不过拖了这么久是时候要面世了。之后会添加评论功能等等，就这样。"></a>现在还有很多功能没有完善，不过拖了这么久是时候要面世了。之后会添加评论功能等等，就这样。</h4><!-- <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">超链接: [Writing](https://hexo.io/docs/writing.html)</div><div class="line">``` </div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"><span class="comment">### Run server</span></div><div class="line"></div><div class="line">``` bash</div><div class="line">$ hexo server</div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
 <h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
