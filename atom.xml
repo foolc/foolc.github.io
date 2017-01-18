@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-18T08:22:00.068Z</updated>
+  <updated>2017-01-18T08:47:33.837Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,8 +19,8 @@
     <title>你好！2017</title>
     <link href="http://yoursite.com/2017/01/12/hello-world/"/>
     <id>http://yoursite.com/2017/01/12/hello-world/</id>
-    <published>2017-01-12T04:01:50.000Z</published>
-    <updated>2017-01-18T08:22:00.068Z</updated>
+    <published>2017-01-12T08:01:50.000Z</published>
+    <updated>2017-01-18T08:47:33.837Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://ojyo71ylt.bkt.clouddn.com/timg.jpg" alt="梦想"></p>
 <h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>从学校出来，一边实习，一边学习。学习大牛们经验的时候，就希望有个地方能记录自己的学习过程和学习成果，所以给自己搭建了个平台，以此做记忆，写下我的故事，记下我的时间。</p>
