@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-18T03:55:57.872Z</updated>
+  <updated>2017-01-18T06:11:47.727Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,18 +20,23 @@
     <link href="http://yoursite.com/2017/01/12/hello-world/"/>
     <id>http://yoursite.com/2017/01/12/hello-world/</id>
     <published>2017-01-12T04:01:50.000Z</published>
-    <updated>2017-01-18T03:55:57.872Z</updated>
+    <updated>2017-01-18T06:11:47.727Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>从学校出来，一边实习，一边学习。学习网上大牛们的经验，学习新的知识，就希望有个地方能记录自己的学习记录和学习成果，所以给自己搭建了个平台，以此做记忆，写下我的故事，记下我的时间。</p>
+    <content type="html"><![CDATA[<h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>从学校出来，一边实习，一边学习。学习大牛们经验的时候，就希望有个地方能记录自己的学习过程和学习成果，所以给自己搭建了个平台，以此做记忆，写下我的故事，记下我的时间。</p>
 <a id="more"></a>
 <h3 id="关于时间"><a href="#关于时间" class="headerlink" title="关于时间"></a>关于时间</h3><blockquote>
 <p>时间是平等不均衡分布的，一天很慢，一年很长</p>
 </blockquote>
 <p>这句话给了时间很好的解释。时间的流逝在不经意间。不是说珍惜时间不重要，却是活在当下，做好该做的事情，比起珍惜大概重要好多。<br>——只愿时间待我温柔。</p>
 <h3 id="2017是起点"><a href="#2017是起点" class="headerlink" title="2017是起点"></a>2017是起点</h3><blockquote>
-<p>把希望包在丰硕的种子里；随着新年，破土，发芽，最终灿烂开花。</p>
+<p>把希望包在丰硕的种子里；随着新年，破土，发芽，最终灿烂成花。</p>
 </blockquote>
-<p>新年的祈愿，谁也不愿意落下，到了年后成了空谈，这一年希望自己是个例外。</p>
+<p>新年的祈愿，谁也不愿意落下，到了年后成了空谈，这一年希望自己是个例外。<br>16年的书只看了一半，说过要做的事，都成了雾霾散在空中。即使自己没有很大的抱负。也不甘，就此过一生。<br>——希望17年是个起点，踏实走过，精彩一生。</p>
+<p><img src="http://ojyo71ylt.bkt.clouddn.com/timg.jpg" alt="梦想"></p>
+<h3 id="关于这里"><a href="#关于这里" class="headerlink" title="关于这里"></a>关于这里</h3><blockquote>
+<p>博客就好像一个人在自说自话    ——–<a href="http://www.ruanyifeng.com/blog" target="_blank" rel="external">阮一峰</a></p>
+</blockquote>
+<p>很多事情都是孤独的，</p>
 <!-- <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">超链接: [Writing](https://hexo.io/docs/writing.html)</div><div class="line">``` --&gt;</div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"><span class="comment">### Run server</span></div><div class="line"></div><div class="line">``` bash</div><div class="line">$ hexo server</div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
 <h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
@@ -42,7 +47,7 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h2&gt;&lt;p&gt;从学校出来，一边实习，一边学习。学习网上大牛们的经验，学习新的知识，就希望有个地方能记录自己的学习记录和学习成果，所以给自己搭建了个平台，以此做记忆，写下我的故事，记下我的时间。&lt;/p&gt;
+      &lt;h2 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h2&gt;&lt;p&gt;从学校出来，一边实习，一边学习。学习大牛们经验的时候，就希望有个地方能记录自己的学习过程和学习成果，所以给自己搭建了个平台，以此做记忆，写下我的故事，记下我的时间。&lt;/p&gt;
     
     </summary>
     
